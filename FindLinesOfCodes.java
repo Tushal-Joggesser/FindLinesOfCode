@@ -18,7 +18,7 @@ public class FindLinesOfCodes {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        final String folderPath = "C:\\Devtools\\upaywise";
+        final String folderPath = "C:\\Devtools\\project";
 
         long totalLineCount = 0;
         final List<File> folderList = new LinkedList<>();
